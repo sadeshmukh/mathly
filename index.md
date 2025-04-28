@@ -1,5 +1,5 @@
 ---
-# layout:
+layout: default
 title: Mathly
 description: A math-focused Jekyll theme
 ---
