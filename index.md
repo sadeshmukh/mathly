@@ -1,7 +1,7 @@
 ---
 # layout:
-title: A Huge Thing
-description: A thing
+title: Mathly
+description: A math-focused Jekyll theme
 ---
 
 # Welcome

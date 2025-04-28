@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: mathly
+description: A math-focused Jekyll theme
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
